@@ -1,58 +1,55 @@
-<!-- Banner / Header -->
-<h1 align="center">🌟 Hi there, I'm <YOUR NAME>! 👋</h1>
-<h3 align="center">A <YOUR ROLE> from <YOUR COUNTRY></h3>
+<!-- Header -->
+<h1 align="center">✨ Hi, I'm <span style="color:#58a6ff;">mamadi</span> ✨</h1>
+<h3 align="center">Frontend Developer (and a little Backend) 🚀</h3>
 
-<!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<USERNAME>&label=Profile+Views&color=blue&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/<USERNAME>?style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=<USERNAME>&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/<USERNAME>?style=social" />
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🔭 I’m currently working on **<PROJECT NAME>**  
-- 🌱 I’m learning **<TECHNOLOGIES>**  
-- 👯 I’m looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **<SKILLS>**  
-- 📫 How to reach me: **<EMAIL or LINKS>**  
-- ⚡ Fun fact: *I love coding more than coffee!*  
+## 🎨 Freestyle Developer  
+- 💻 Frontend lover | Backend (just a little 😉)  
+- 🧠 Always learning and experimenting  
+- 🎯 Passionate about freestyle responsive design  
+- ⚡ Code + Coffee = Perfect Day  
 
 ---
 
 ## 🛠️ Tech Stack  
-### **Languages**
+### **Languages & Skills**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,html,php,mysql" />
 </p>
 
-### **Frameworks & Tools**
+### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,flutter,tailwind,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
 </p>
 
-### **DevOps**
+### **Backend (a little 😄)**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=python,php" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=react" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=<USERNAME>&theme=react" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=<USERNAME>&theme=tokyonight" />
 </p>
 
 ---
 
-## 📂 Top Projects  
+## 📁 Featured Projects  
 <p align="center">
   <a href="https://github.com/<USERNAME>/<PROJECT1>">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=<USERNAME>&repo=<PROJECT1>&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=<USERNAME>&repo=<PROJECT1>&theme=tokyonight" />
   </a>
   <a href="https://github.com/<USERNAME>/<PROJECT2>">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=<USERNAME>&repo=<PROJECT2>&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=<USERNAME>&repo=<PROJECT2>&theme=tokyonight" />
   </a>
 </p>
 
@@ -60,12 +57,11 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=discord" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-⭐ **If you like my work, consider giving a star!**
+⭐ *If you enjoy my work, feel free to star my repositories!*
