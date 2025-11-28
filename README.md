@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">✨ Hi, I'm <span style="color:#58a6ff;">mamadi</span> ✨</h1>
-<h3 align="center">Frontend Developer (and a little Backend) 🚀</h3>
+<h3 align="center">✨ Stats ✨</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mamadi&label=Profile+Views&color=blue&style=flat" />
