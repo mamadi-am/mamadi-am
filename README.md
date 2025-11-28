@@ -9,12 +9,11 @@
 
 ---
 
-<h2 align="center">🎨 Freestyle Developer</h2>
+<h2 align="center">🎨 Just a Normal Developer</h2>
 
 <p align="center">
-💻 Frontend lover | Backend (just a little 😉)<br>
+💻 Web Developer ( ig ) and Good at Python<br>
 🧠 Always learning and experimenting<br>
-🎯 Passionate about freestyle responsive design<br>
 ⚡ Code + Coffee = Perfect Day  
 </p>
 
@@ -30,11 +29,6 @@
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php" />
 </p>
 
 ---
