@@ -31,7 +31,7 @@
 
 <p align="center">
   <!-- Skills -->
-  <img src="https://skillicons.dev/icons?i=python,php,html,js,mysql,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,php,html,js" />
 </p>
 
 ---
