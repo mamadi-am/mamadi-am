@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
 </p>
 
-<h3 align="center">Backend (a little 😄)</h3>
+<h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php" />
 </p>
@@ -51,12 +51,7 @@
 <h2 align="center">📁 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/mamadi/PROJECT1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mamadi&repo=PROJECT1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/mamadi/PROJECT2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mamadi&repo=PROJECT2&theme=tokyonight" />
-  </a>
+  just a beginner </3
 </p>
 
 
