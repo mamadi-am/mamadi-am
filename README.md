@@ -48,7 +48,7 @@
 <h2 align="center">📁 Featured Projects</h2>
 
 <p align="center">
-  just a beginner </3
+  Working on responseries yet. >:
 </p>
 
 
