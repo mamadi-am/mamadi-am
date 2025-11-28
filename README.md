@@ -21,14 +21,17 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">Languages & Skills</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,php,mysql" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript_(a_little)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+  <!-- Skills -->
+  <img src="https://skillicons.dev/icons?i=python,php,html,js,mysql,git,linux" />
 </p>
 
 ---
