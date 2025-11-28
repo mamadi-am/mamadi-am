@@ -59,16 +59,5 @@
   </a>
 </p>
 
----
-
-<h2 align="center">🌐 Connect with Me</h2>
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
----
 
 <p align="center">⭐ If you enjoy my work, feel free to star my repositories!</p>
